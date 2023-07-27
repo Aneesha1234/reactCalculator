@@ -1,4 +1,4 @@
 import React from "react";
 export const Cart = () => {
-  return <div>cart</div>;
+  return <div>mobile example</div>;
 };
