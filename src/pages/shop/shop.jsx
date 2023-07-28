@@ -40,7 +40,7 @@ export const Shop = () => {
   return (
     <div className="flex-container">
       {" "}
-      <div className="container">
+      <div className="containerS">
         <div className="result">{result}</div>
         <div className="calculations">{calc}</div>
         <div className="extra-operands">
@@ -54,7 +54,7 @@ export const Shop = () => {
             </div>
           ))}
         </div>
-        <div className="buttons">
+        <div className="buttonsS">
           <div className="numbers">
             {[1, 2, 3, 4, 5, 6, 7, 8, 9, ".", 0, "="].map((number) => (
               <div

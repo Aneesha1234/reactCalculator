@@ -1,0 +1,62 @@
+.container {
+  width: 29%;
+  margin: auto;
+}
+.result-number {
+  background-color: #fff;
+  width: 100%;
+  height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+}
+.add-number {
+  width: 100%;
+  height: 30px;
+  background-color: white;
+  color: rgb(33, 33, 195);
+}
+.buttons {
+  width: 100%;
+  height: 400px;
+  display: flex;
+}
+.number {
+  width: 100%;
+  height: 131%;
+  background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.num-keys {
+  width: 26.33%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 55px;
+  margin: auto;
+  font-size: 57px;
+}
+.icons {
+  align-items: center;
+  display: flex;
+  justify-content: end;
+}
+.call-button {
+  width: 24%;
+  margin-top: 136px;
+  background-color: green;
+  height: 95px;
+  border-radius: 74px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.backspace {
+  font-size: 37px;
+  margin: 145px 48px 0 66px;
+}

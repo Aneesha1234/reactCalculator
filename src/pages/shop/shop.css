@@ -3,7 +3,7 @@
   justify-content: center;
   width: 100%;
 }
-.container {
+.containerS {
   width: 42%;
 }
 .result {
@@ -42,7 +42,7 @@
   font-size: 57px;
   cursor: pointer;
 }
-.buttons {
+.buttonsS {
   display: flex;
 }
 .numbers {
